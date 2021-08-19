@@ -1,2 +1,2 @@
 # study-git
-untuk mencoba git remote
+test git remote
